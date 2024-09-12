@@ -4,8 +4,8 @@
 
 - Se consume una API con un backend entregado por desafioLatam# mama_mia_hito4.
 
-Pasos para correr la App
-1.- Levantamos el backend ingresando por la terminal "cd backend" y por la "Terminal" ejecutamos "npm start"
-2.- Está configurado para correr por el puerto 5001
-3.- Para poder correr la app, levantamos el frontend por la terminal "cd frontend" y ejecutamos "npm run dev"
-4.- Se levanta el proyecto para consumir la API de pizzas
+-Pasos para correr la App
+-1.- Levantamos el backend ingresando por la terminal "cd backend" y por la "Terminal" ejecutamos "npm start"
+-2.- Está configurado para correr por el puerto 5001
+-3.- Para poder correr la app, levantamos el frontend por la terminal "cd frontend" y ejecutamos "npm run dev"
+-4.- Se levanta el proyecto para consumir la API de pizzas
